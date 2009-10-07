@@ -9,7 +9,7 @@ Summary:	Math::Project3D::Plot - Perl extension for plotting projections of 3D f
 Summary(pl.UTF-8):	Math::Project3D::Plot - rozszerzenie Perla do rysowania rzutów funkcji 3D
 Name:		perl-Math-Project3D-Plot
 Version:	1.02
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
