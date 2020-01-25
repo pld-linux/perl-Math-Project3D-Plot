@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Math
 %define	pnam	Project3D-Plot
 Summary:	Math::Project3D::Plot - Perl extension for plotting projections of 3D functions
